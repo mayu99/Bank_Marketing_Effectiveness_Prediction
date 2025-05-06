@@ -79,7 +79,6 @@ https://bankmarketingeffectivenessprediction-aq78zjpamhfgmb9rnchaep.streamlit.ap
 
 ## 💻 Run the App Locally
 
-```bash
 git clone https://github.com/mayu99/Bank_Marketing_Effectiveness_Prediction.git
 cd Bank_Marketing_Effectiveness_Prediction
 pip install -r requirements.txt
