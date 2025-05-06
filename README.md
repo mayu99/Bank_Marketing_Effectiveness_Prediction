@@ -115,8 +115,7 @@ This project was developed as part of **ML 245** coursework.
 
 **Group 3 – ML 245:**
 - Mayuresh Pandey  
-- Nikhil Swami  
-- Aayush Anil Patil  
+- Nikhil Swami   
 - Rupesh Motipawale  
 - Padmanabh Rathi  
 - Suyog Jadhav  
