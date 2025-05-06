@@ -4,17 +4,23 @@ This project predicts whether a customer will subscribe to a term deposit based 
 
 ---
 
-## 📂 Project Folder Structure
+## 📁 Project Folder Structure
+- app.py – Streamlit app for real-time prediction
 
-Bank_Marketing_Effectiveness_Prediction/
-├── app.py # Streamlit app for real-time prediction
-├── Bank_Marketing_Effectiveness_Prediction.ipynb # Main notebook: EDA, training, evaluation
-├── Bank_Marketing_Effectiveness_Prediction_Streamlit_Deployment.ipynb # Streamlit deployment notebook
-├── random_forest_pipeline.pkl # Trained Random Forest model (via Git LFS)
-├── synthetic_bank_marketing_100k.csv # Cleaned dataset used for training
-├── requirements.txt # Python dependencies
-├── .gitattributes # LFS tracking config
-└── README.md # You're reading it!
+- Bank_Marketing_Effectiveness_Prediction.ipynb – Main notebook: EDA, training, and evaluation
+
+- Bank_Marketing_Effectiveness_Prediction_Streamlit_Deployment.ipynb – Notebook for Streamlit deployment
+
+- random_forest_pipeline.pkl – Trained Random Forest model (stored using Git LFS)
+
+- synthetic_bank_marketing_100k.csv – Cleaned dataset used for training
+
+- requirements.txt – Python dependencies needed to run the app
+
+- .gitattributes – Git LFS tracking configuration file
+
+- README.md – You’re reading it! Project overview and usage instructions
+
 
 
 ---
@@ -80,8 +86,11 @@ https://bankmarketingeffectivenessprediction-aq78zjpamhfgmb9rnchaep.streamlit.ap
 ## 💻 Run the App Locally
 
 git clone https://github.com/mayu99/Bank_Marketing_Effectiveness_Prediction.git
+
 cd Bank_Marketing_Effectiveness_Prediction
+
 pip install -r requirements.txt
+
 streamlit run app.py
 
 ---
