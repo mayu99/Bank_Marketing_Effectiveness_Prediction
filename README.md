@@ -85,6 +85,8 @@ cd Bank_Marketing_Effectiveness_Prediction
 pip install -r requirements.txt
 streamlit run app.py
 
+---
+
 ## 📦 File Descriptions
 
 | File Name                                                        | Description                                  |
